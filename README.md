@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Astonic
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java development
-- 📫 How to reach me Astonic#8650
+👋 Hello there! I’m Filip but more known as @Astonic. I am the current owner and founder of ProjectIce.
+I am currently studying Computer Science, but trying to learn Java on my own.
 
 <!---
 AstonicPI/AstonicPI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
