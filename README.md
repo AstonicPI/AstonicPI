@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AstonicPI
+- 👋 Hi, I’m @Astonic
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Java development
 - 📫 How to reach me Astonic#8650
