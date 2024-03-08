@@ -1,4 +1,4 @@
-👋 Hello there! I’m Filip but more known as @Astonic. I am the current owner and founder of ProjectIce.
+👋 Hello there! I’m Filip but more known as @Astonic.
 I am currently studying Computer Science, but trying to learn Java on my own.
 
 <!---
